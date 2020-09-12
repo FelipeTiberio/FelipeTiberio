@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning web development and data science. 
 
 
-### Some of my projects:
-
 
 ### Connect with me:
 [<img align="left" alt="Felipe Tiberio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
@@ -19,7 +17,7 @@
 <br>
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FelipeTiberio&hide=stars&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FelipeTiberio&hide=stars&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTiberio&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
